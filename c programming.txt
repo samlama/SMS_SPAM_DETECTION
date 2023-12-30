@@ -1,0 +1,37 @@
+1.specify the different types of decisions control statements?
+2. What is an r-value and I-value
+3. What is the difference between the malloc() and calloc()
+4. What is the difference between the struct and union in C?
+5. What is the cell by refrence in functions?
+6. What is the pass bu reference in functions?
+7. What is the memory leak? How to avoid it?
+8. What is the Dynamic memory allocation in C? Name the dynamic allocated functions.
+9. What is typedef?
+10. What is it usually a bad idea to use gets()? Suggest a workaround.
+
+
+Program
+
+1. How can you remove duplicate in an array?
+2. Can we compile  a program without the main() function?
+3. Write a program to get the higher and lower nibble of a byte without using the shift operator?
+4. Hoow do you override a defined a macro?
+5. Write a C program to check if it is the palindrome or nott using the recursive method?
+6. C program to check the given number formats is in binary or not?
+7. C program fo find the sum digits of the number using recurrison?
+8. Can yoou tell me how to check whether a linked a list is circular?
+
+Program
+1. Multiply the integer number by 2 without using the multiplication operator
+2. Check whether the number is Even or Odd without using the arithmetic operator or relational operator.
+3. Reverse the linked list. Input 1->2->3->4->5-null. ouput:5->4->3->-2->1
+4. Check the balanced parenthese using stack
+5. Program to find the n'th fibonaacci number.
+6. Write a program to find the node at which the intersection of two singly linked lists begins.
+7. Merger two sorted linked list.
+8. Differentiate between source code from object code.
+9. What are header files and what are its uses in C programming?
+10. When is the "void" keyword used in a function/
+11. What is dynamic data structure?
+12. Add two Number without using the Addition operator.
+13. Substract Two Number Without using Substraction Operator.

@@ -1,0 +1,20 @@
+1. How is a string reversed?
+2. How can one ascertain whether a given string a palindrome?
+3. How can the number of digits in a string of number be determinede?
+4. How can i determined how many times a specific character appear?
+5. How may the non-matching characters in a string be located?
+6. How can you determined whether the two strings provided are assigned?
+7. How can you determine how many vowels and consonants are there?
+8. In an array, how do you  add up all of the corresponding integer?
+9. How may an array be reversed?
+10. How can the maximum elements in array be found?
+11. How do you sort an array of integer in ascending order?
+12. How do you print a Fibonnacci sequence using recursion?
+13. How do you calculate the sum of two integers?
+14. How do you find the average o f numbers in a list?
+15. How do you check if an integer is even or odd?
+16. How do you find the middle elements of  linked list?
+17. How do you implement binary search to find an elements in a sorted array?
+18. How do you remove the a loop in a linked list?
+19. How do you merge the two sorted linked list?
+20. How do you print a binary tree in vetical order.
